@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.png" alt="The Code Zilla — AI & Data Engineer" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/TheCodeZilla">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&height=40&lines=AI+%26+Data+Engineer;LLM+Applications+%26+RAG+Systems;Data+Pipelines+%26+ML+Engineering" alt="Typing SVG" />
   </a>
